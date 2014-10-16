@@ -16,8 +16,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="#ffffff">
+<meta name="video-analytics-data-saas-daas" content="yes">
+<meta name="video-analytics-data-saas-daas" content="#ffffff">
 <link rel="icon" href="http://datasnap.io/img/logo-ds-address.png">
 <title>everyview - SaaS video analytics</title>
 
@@ -95,7 +95,7 @@
             <li class="active"><a href="http://datasnap.io/#about" class="scrollto">About</a></li>
             <li class=""><a href="http://datasnap.io/#features" class="scrollto">Platform</a></li>
            <!--  <li><a href="#contact" class="scrollto">Contact</a></li> -->
-           <li><a href="mailto:info@datasnap.io">Contact</a></li>
+           <li><a href="mailto:reply1@evryview.com">Contact</a></li>
             <li><a href="http://datasnap-io.github.io/index.html" class="scrollto" target="_blank">Docs</a></li>
             <li><a href="https://my.datasnap.io/#/login" class="login">Log in</a></li>
 
@@ -114,6 +114,9 @@
 <section id="home">
 <!-- ======================================= -->
 <!-- ========== START PARALLAX SLIDER ========== -->
+
+<!-- Replace "beach-postcard.png" with "turingmachine.png"> 
+
 <!-- ======================================== data-stellar-background-ratio="0.2"-->
 <div class="static-image height-100" style="height: 578px;">
 <div class="parallax " style="background-image: url(http://datasnap.io/img/pictures/beach-postcard.png); background-position: 50% -129.6px;" data-stellar-background-ratio="0.2"></div>
